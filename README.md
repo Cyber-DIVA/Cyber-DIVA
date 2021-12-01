@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @D-I-code
-- 👀 I’m interested in Software Development and Gaming
-- 🌱 I’m currently learning Python, Pygame, Unity and Unreal Engine
+- 👋 Hi, I’m @D-I-code.
+- 👀 I’m interested in Software Development and Gaming.
+- 🌱 I’m AWS Cloud Foundations Certified and currently learning Python, Pygame and Java. 
 - 💞️ I’m looking to collaborate with people with the same interests, exchanging experience and learning more.
 - 📫 How to reach me: https://www.linkedin.com/in/dayana-ivanova-6bb480213/
 
