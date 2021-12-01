@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cyber-DIVA
+- 👋 Hi, I’m @D-I-code
 - 👀 I’m interested in Software Development and Gaming
 - 🌱 I’m currently learning Python, Pygame, Unity and Unreal Engine
 - 💞️ I’m looking to collaborate with people with the same interests, exchanging experience and learning more.
